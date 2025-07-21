@@ -29,9 +29,9 @@
 
 This repository is based on my 2024 MSc Thesis submitted to the University of Calgary:
 
-Title: Bloom Swizzlers: A Construction for Enabling Expressive Queries over PIR Protocols
-Supervisor: Dr. Ryan Henry
-Institutional Link: [Thesis Repository](https://ucalgary.scholaris.ca/items/427cce3a-2e90-4953-82a6-7b1b74454452)
+- Title: Bloom Swizzlers: A Construction for Enabling Expressive Queries over PIR Protocols
+- Supervisor: Dr. Ryan Henry
+- Institutional Link: [Thesis Repository](https://ucalgary.scholaris.ca/items/427cce3a-2e90-4953-82a6-7b1b74454452)
 
 **Disclaimer**: This work was completed as part of my graduate research and is intended for educational and non-commercial use. Please cite appropriately if referencing the material.
 
